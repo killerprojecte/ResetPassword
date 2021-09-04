@@ -1,0 +1,5 @@
+name: ResetPasswd
+version: 2.1.2
+author: jim20071128
+softdepend: [AmazingBot]
+main: com.jim20071128.resetpasswd.ResetPasswd
