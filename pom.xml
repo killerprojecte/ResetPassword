@@ -71,19 +71,19 @@
         </dependency>
     </dependencies>
 	
-	  <repositories>
-      <repository>
-          <id>codemc-repo</id>
-          <url>https://repo.codemc.org/repository/maven-public/</url>
-      </repository>
-  </repositories>
+	<repositories>
+        <repository>
+            <id>codemc-repo</id>
+            <url>https://repo.codemc.org/repository/maven-public/</url>
+          </repository>
+    </repositories>
 
-  <dependencies>
-      <dependency>
-          <groupId>fr.xephi</groupId>
-          <artifactId>authme</artifactId>
-          <version>5.6.0-SNAPSHOT</version>
-          <scope>provided</scope>
-      </dependency>
-  </dependencies>
+    <dependencies>
+        <dependency>
+            <groupId>fr.xephi</groupId>
+            <artifactId>authme</artifactId>
+            <version>5.6.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 </project>
