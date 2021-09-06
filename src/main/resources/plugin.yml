@@ -1,0 +1,9 @@
+kname: ResetPasswd
+version: '${project.version}'
+main: com.jim20071128.resetpasswd.ResetPasswd
+prefix: [ ResetPassword ]
+load: STARTUP
+softdepend: [ Authme, AmazingBot,EasyAPI ]
+authors: [ jim20071128 ]
+description: 更好的重置密码
+website: mabio.top
